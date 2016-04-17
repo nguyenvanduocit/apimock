@@ -21,5 +21,4 @@ Then make request in any method, but remember to include 2 key:
 | key                    | description                                  |
 |------------------------|----------------------------------------------|
 | expected_response      | Any text you want to recive in response body |
-|------------------------|----------------------------------------------|
 | expected_response_mime | Response mime type                           |
